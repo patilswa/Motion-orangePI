@@ -30,4 +30,5 @@ http://www.cnx-software.com/2015/09/26/how-to-use-orange-pi-camera-in-linux-with
 
 to remove HDMI support from orangePI one
 https://www.olimex.com/forum/index.php?topic=1004.0
-
+refer to cover back to bin 
+http://www.imajeenyus.com/computer/20130301_android_tablet/android/fex2bin_etc.html
