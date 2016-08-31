@@ -32,3 +32,6 @@ to remove HDMI support from orangePI one
 https://www.olimex.com/forum/index.php?topic=1004.0
 refer to cover back to bin 
 http://www.imajeenyus.com/computer/20130301_android_tablet/android/fex2bin_etc.html
+
+if any ssh error for connection refused
+ssh-keygen -R "your ip address" 
