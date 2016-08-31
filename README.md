@@ -1,6 +1,6 @@
 # Motion-orangePI
 
-ownload image Armbian_5.14_Orangefromhttp://www.armbian.com/orange-pi-one/   
+Download image Armbian_5.14_Orangefromhttp://www.armbian.com/orange-pi-one/   
 pione_Ubuntu_xenial_3.4.112 
 
 extract it
